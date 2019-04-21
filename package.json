@@ -1,0 +1,16 @@
+{
+  "name": "node-pokemon-search",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --experimental-modules index.mjs"
+  },
+  "keywords": [],
+  "author": "Oliver Phillips <op@oliverjam.es> (https://oliverjam.es/)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
